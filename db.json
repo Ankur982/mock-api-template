@@ -1,0 +1,194 @@
+{
+    "employees": [
+      {
+        "id": 1,
+        "name": "Ankur Singh",
+        "employee_id": 101,
+        "department": "HR",
+        "experience": 8,
+        "email": "ankur@gmail.com",
+        "mobile": 8504899838
+      },
+      {
+        "id": 2,
+        "name": "Aayush Singh",
+        "employee_id": 102,
+        "department": "Finance",
+        "experience": 4,
+        "email": "aayush@gmail.com",
+        "mobile": 8504899838
+      },
+      {
+        "id": 3,
+        "name": "Rishu Singh",
+        "employee_id": 103,
+        "department": "Engineering",
+        "experience": 4,
+        "email": "rishu@gmail.com",
+        "mobile": 8504899838
+      },
+      {
+        "id": 4,
+        "name": "Prince Singh",
+        "employee_id": 104,
+        "department": "HR",
+        "experience": 5,
+        "email": "prince@gmail.com",
+        "mobile": 8504899838
+      },
+      {
+        "id": 5,
+        "name": "Ankur Singh",
+        "employee_id": "6954",
+        "department": "Finance",
+        "experience": "66",
+        "email": "ankursingh@gmail.com",
+        "mobile": "6456"
+      },
+      {
+        "id": 6,
+        "name": "Ankur Singh",
+        "employee_id": 101,
+        "department": "HR",
+        "experience": 8,
+        "email": "ankur@gmail.com",
+        "mobile": 8504899838
+      },
+      {
+        "id": 7,
+        "name": "Aayush Singh",
+        "employee_id": 102,
+        "department": "Finance",
+        "experience": 4,
+        "email": "aayush@gmail.com",
+        "mobile": 8504899838
+      },
+      {
+        "id": 8,
+        "name": "Rishu Singh",
+        "employee_id": 103,
+        "department": "Engineering",
+        "experience": 4,
+        "email": "rishu@gmail.com",
+        "mobile": 8504899838
+      },
+      {
+        "id": 9,
+        "name": "Prince Singh",
+        "employee_id": 104,
+        "department": "HR",
+        "experience": 5,
+        "email": "prince@gmail.com",
+        "mobile": 8504899838
+      },
+      {
+        "id": 10,
+        "name": "Ankur Singh",
+        "employee_id": "6954",
+        "department": "Finance",
+        "experience": "66",
+        "email": "ankursingh@gmail.com",
+        "mobile": "6456"
+      },
+      {
+        "id": 11,
+        "name": "Ankur Singh",
+        "employee_id": 101,
+        "department": "HR",
+        "experience": 8,
+        "email": "ankur@gmail.com",
+        "mobile": 8504899838
+      },
+      {
+        "id": 12,
+        "name": "Aayush Singh",
+        "employee_id": 102,
+        "department": "Finance",
+        "experience": 4,
+        "email": "aayush@gmail.com",
+        "mobile": 8504899838
+      },
+      {
+        "id": 13,
+        "name": "Rishu Singh",
+        "employee_id": 103,
+        "department": "Engineering",
+        "experience": 4,
+        "email": "rishu@gmail.com",
+        "mobile": 8504899838
+      },
+      {
+        "id": 14,
+        "name": "Prince Singh",
+        "employee_id": 104,
+        "department": "HR",
+        "experience": 5,
+        "email": "prince@gmail.com",
+        "mobile": 8504899838
+      },
+      {
+        "id": 15,
+        "name": "Ankur Singh",
+        "employee_id": "6954",
+        "department": "Finance",
+        "experience": "66",
+        "email": "ankursingh@gmail.com",
+        "mobile": "6456"
+      },
+      {
+        "id": 16,
+        "name": "Ankur Singh",
+        "employee_id": 101,
+        "department": "HR",
+        "experience": 8,
+        "email": "ankur@gmail.com",
+        "mobile": 8504899838
+      },
+      {
+        "id": 17,
+        "name": "Aayush Singh",
+        "employee_id": 102,
+        "department": "Finance",
+        "experience": 4,
+        "email": "aayush@gmail.com",
+        "mobile": 8504899838
+      },
+      {
+        "id": 18,
+        "name": "Rishu Singh",
+        "employee_id": 103,
+        "department": "Engineering",
+        "experience": 4,
+        "email": "rishu@gmail.com",
+        "mobile": 8504899838
+      },
+      {
+        "id": 19,
+        "name": "Prince Singh",
+        "employee_id": 104,
+        "department": "HR",
+        "experience": 5,
+        "email": "prince@gmail.com",
+        "mobile": 8504899838
+      },
+      {
+        "id": 20,
+        "name": "Deepak",
+        "employee_id": "6954",
+        "department": "Finance",
+        "experience": "66",
+        "email": "ankursingh@gmail.com",
+        "mobile": "6456"
+      }
+    ],
+    "comments": [
+      {
+        "id": 1,
+        "body": "some comment",
+        "postId": 1
+      }
+    ],
+    "profile": {
+      "name": "typicode"
+    }
+  }
